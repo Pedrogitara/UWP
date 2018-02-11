@@ -1,0 +1,10 @@
+/out:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private\\"
+/ref:"C:\Users\bartl_000\Documents\GitHub\STC\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

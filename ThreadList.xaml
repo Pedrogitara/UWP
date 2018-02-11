@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="STC.ThreadList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:STC"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF250075" Offset="0"/>
+            <GradientStop Color="#FF250075" Offset="1"/>
+        </LinearGradientBrush>
+    </Page.Background>
+    
+    <Page.TopAppBar>
+        <CommandBar>
+            <CommandBar.Content>
+                <TextBlock x:Name="title" Text="Thread List" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Center" Foreground="White"/>
+            </CommandBar.Content>
+        </CommandBar>
+    </Page.TopAppBar>
+    
+    <Grid>
+        <Button x:Name="button" Content="Add thread" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="125" Click="button_Click" />
+        <Button x:Name="users" Content="Users Management" HorizontalAlignment="Left" Margin="145,10,0,0" VerticalAlignment="Top" Width="150" Click="users_Click"/>
+        <Button x:Name="button1" Content="Refresh" HorizontalAlignment="Right" Margin="0,10,10,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Delete" HorizontalAlignment="Right" Margin="0,10,95,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
+        <Grid HorizontalAlignment="Stretch" Margin="20, 50, 10, 0">
+            <TextBlock Text="Id" Margin="0, 0, 0, 0" Width="30" Foreground="White" HorizontalAlignment="Left"></TextBlock>
+            <TextBlock Text="Title" Margin="30, 0, 0, 0" Width="150" HorizontalAlignment="Left"></TextBlock>
+            <TextBlock Text="Date" Margin="180, 0, 0, 0" Width="180" HorizontalAlignment="Left"></TextBlock>
+            <TextBlock Text="User" Margin="350, 0, 0, 0" Width="Auto" HorizontalAlignment="Left"></TextBlock>
+        </Grid>
+        <ListView x:Name="dataList" Margin="10, 80, 10, 50" HorizontalAlignment="Stretch" DoubleTapped="dataList_DoubleClick">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid HorizontalAlignment="Stretch" Margin="0, 0, 0, 0">
+                        <TextBlock Text="{Binding id}" Margin="0, 0, 0, 0" Width="30" Foreground="White" HorizontalAlignment="Left"></TextBlock>
+                        <TextBlock Text="{Binding title}" Margin="30, 0, 0, 0" Width="150" Foreground="White" HorizontalAlignment="Left"></TextBlock>
+                        <TextBlock Text="{Binding date}" Margin="180, 0, 0, 0" Width="180" Foreground="White" HorizontalAlignment="Left"></TextBlock>
+                        <TextBlock Text="{Binding user}" Margin="350, 0, 0, 0" Width="Auto" Foreground="White" HorizontalAlignment="Left"></TextBlock>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBlock x:Name="label" Text="Find" HorizontalAlignment="Left" Margin="10,325,10,16" VerticalAlignment="Bottom" Foreground="White"/>
+        <TextBox x:Name="filter" HorizontalAlignment="Stretch" Height="23" Margin="48,330,10,10" TextWrapping="Wrap" VerticalAlignment="Bottom" TextChanged="filter_TextChanged"/>
+    </Grid>
+    
+</Page>

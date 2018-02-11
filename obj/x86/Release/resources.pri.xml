@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="e8e68bb2-846a-4379-a772-bd27eb10e21a" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200,100</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PostAdd.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/PostAdd.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Register.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Register.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="STC.xr.xml" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/STC.xr.xml">
+				<Candidate type="Path">
+					<Value>STC.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ThreadAdd.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/ThreadAdd.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ThreadList.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/ThreadList.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ThreadWindow.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/ThreadWindow.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UserList.xbf" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/UserList.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-200.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x310Logo.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Assets/Wide310x310Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x310Logo.scale-200.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Image">
+				<NamedResource name="background.png" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Image/background.png">
+					<Candidate type="Path">
+						<Value>Image\background.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon.ico" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Image/icon.ico">
+					<Candidate type="Path">
+						<Value>Image\icon.ico</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.AspNetCore.Http.Abstractions.Resources">
+			<NamedResource name="Exception_InvokeDoesNotSupportRefOrOutParams" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_InvokeDoesNotSupportRefOrOutParams">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The '{0}' method must not have ref or out parameters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_InvokeMiddlewareNoService" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_InvokeMiddlewareNoService">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to resolve service for type '{0}' while attempting to Invoke middleware '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_PathMustStartWithSlash" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_PathMustStartWithSlash">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The path in '{0}' must start with '/'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_PortMustBeGreaterThanZero" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_PortMustBeGreaterThanZero">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value must be greater than zero.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_UseMiddleMutlipleInvokes" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_UseMiddleMutlipleInvokes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Multiple public '{0}' methods are available.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_UseMiddlewareIServiceProviderNotAvailable" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_UseMiddlewareIServiceProviderNotAvailable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is not available.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_UseMiddlewareNoInvokeMethod" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_UseMiddlewareNoInvokeMethod">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No public '{0}' method found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_UseMiddlewareNonTaskReturnType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_UseMiddlewareNonTaskReturnType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' does not return an object of type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Exception_UseMiddlewareNoParameters" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.AspNetCore.Http.Abstractions.Resources/Exception_UseMiddlewareNoParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The '{0}' method's first argument must be of type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Data.Sqlite.Strings">
+			<NamedResource name="AlreadyLoaded" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/AlreadyLoaded">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The SQLite library is already loaded. UseWinSqlite3 must be called before using SQLite.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AmbiguousParameterName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/AmbiguousParameterName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot bind the value for parameter '{parameterName}' because multiple matching parameters were found in the command text. Specify the parameter name with the symbol prefix, e.g. '@{parameterName}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CallRequiresOpenConnection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/CallRequiresOpenConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{methodName} can only be called when the connection is open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CallRequiresSetCommandText" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/CallRequiresSetCommandText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>CommandText must be set before {methodName} can be called.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotStoreNaN" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/CannotStoreNaN">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot store 'NaN' values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionStringRequiresClosedConnection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/ConnectionStringRequiresClosedConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ConnectionString cannot be set when the connection is open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConvertFailed" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/ConvertFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot convert object of type '{sourceType}' to object of type '{targetType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataReaderClosed" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/DataReaderClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to call {operation} when reader is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefaultNativeError" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/DefaultNativeError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>For more information on this error code see http://sqlite.org/rescode.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCacheMode" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidCacheMode">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The cache mode '{mode}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCommandBehavior" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidCommandBehavior">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The CommandBehavior '{behavior}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCommandType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidCommandType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The CommandType '{commandType}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidEnumValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidEnumValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The {enumType} enumeration value, {value}, is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidIsolationLevel" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidIsolationLevel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The IsolationLevel '{isolationLevel}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidIsolationLevelForUnsharedCache" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidIsolationLevelForUnsharedCache">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The IsolationLevel '{isolationLevel}' can only be used with a shared cache. Set 'Cache=Shared' in the connection string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidParameterDirection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/InvalidParameterDirection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The ParameterDirection '{direction}' is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/KeywordNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Keyword not supported: '{keyword}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingParameters" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/MissingParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Must add values for the following parameters: {parameters}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoData" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/NoData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No data exists for the row/column.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OpenRequiresSetConnectionString" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/OpenRequiresSetConnectionString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ConnectionString must be set before Open can be called.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParallelTransactionsNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/ParallelTransactionsNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SqliteConnection does not support nested transactions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/ParameterNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A SqliteParameter with ParameterName '{parameterName}' is not contained by this SqliteParameterCollection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RequiresSet" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/RequiresSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{propertyName} must be set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqliteNativeError" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/SqliteNativeError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SQLite Error {errorCode}: '{message}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionCompleted" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/TransactionCompleted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This SqliteTransaction has completed; it is no longer usable.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionConnectionMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/TransactionConnectionMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The transaction object is not associated with the connection object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionRequired" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/TransactionRequired">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Execute requires the command to have a transaction object when the connection assigned to the command is in a pending local transaction.  The Transaction property of the command has not been initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownDataType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Data.Sqlite.Strings/UnknownDataType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No mapping exists from object type {typeName} to a known managed provider native type.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings">
+			<NamedResource name="Cancelled" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/Cancelled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cancelled.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotFindDesignTimeProviderAssembly" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/CannotFindDesignTimeProviderAssembly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to find design-time provider assembly. Please install the {designTimeProviderAssemblyName} NuGet package and ensure that the package is referenced by the project.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotFindDesignTimeProviderAssemblyAttribute" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/CannotFindDesignTimeProviderAssemblyAttribute">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to find expected assembly attribute named {attributeName} in provider assembly {runtimeProviderAssemblyName}. This attribute is required to identify the class which acts as the design-time service provider factory.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotFindRuntimeProviderAssembly" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/CannotFindRuntimeProviderAssembly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to find provider assembly with name {assemblyName}. Ensure the specified name is correct and is referenced by the project.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionStringRequired" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ConnectionStringRequired">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ConnectionString is required to generate code.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ContextClassNotValidCSharpIdentifier" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ContextClassNotValidCSharpIdentifier">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The context class name passed in, {contextClassName}, is not a valid C# identifier.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CouldNotSerialize" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/CouldNotSerialize">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not serialize {obj} [{name}]</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DestructiveOperation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/DestructiveOperation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An operation was scaffolded that may result in the loss of data. Please review the migration for accuracy.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Done" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/Done">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Done.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateMigrationName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/DuplicateMigrationName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The name '{migrationName}' is used by an existing migration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForceRemoveMigration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ForceRemoveMigration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Removing migration '{name}' without checking the database. If this migration has been applied to the database, you will need to manually reverse the changes it made.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignMigrations" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ForeignMigrations">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The namespace '{migrationsNamespace}' contains migrations for a different DbContext. This can result in conflicting migration names. It's recommend to put migrations for different DbContext classes into different namespaces.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvokeStartupMethodFailed" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/InvokeStartupMethodFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An error occurred while calling method '{method}' on startup class '{startupClass}'. Consider using IDbContextFactory to override the initialization of the DbContext at design-time. Error: {error}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogDatabaseDropped" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/LogDatabaseDropped">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Successfully dropped database '{name}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogDroppingDatabase" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/LogDroppingDatabase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Dropping database '{name}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogFindingContexts" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/LogFindingContexts">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Finding DbContext classes...</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogNotExistDatabase" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/LogNotExistDatabase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Database '{name}' did not exist, no action was taken.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogUseContext" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/LogUseContext">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Using context '{name}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ManuallyDeleted" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ManuallyDeleted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A manual migration deletion was detected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MigrationsAssemblyMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/MigrationsAssemblyMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Your target project '{assembly}' doesn't match your migrations assembly '{migrationsAssembly}'. Either change your target project or change your migrations assembly.
+Change your migrations assembly by using DbContextOptionsBuilder. E.g. options.UseSqlServer(connection, b =&gt; b.MigrationsAssembly("{assembly}")). By default, the migrations assembly is the assembly containing the DbContext.
+Change your target project to the migrations project by using the Package Manager Console's Default project drop-down list, or by executing "dotnet ef" from the directory containing the migrations project.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleContexts" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/MultipleContexts">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>More than one DbContext was found. Specify which one to use. Use the '-Context' parameter for PowerShell commands and the '--context' parameter for dotnet commands.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleContextsWithName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/MultipleContextsWithName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>More than one DbContext named '{name}' was found. Specify which one to use by providing its fully qualified name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleContextsWithQualifiedName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/MultipleContextsWithQualifiedName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>More than one DbContext named '{name}' was found. Specify which one to use by providing its fully qualified name using its exact case.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoContext" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoContext">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No DbContext was found in assembly '{assembly}'. Ensure that you're using the correct assembly and that the type is neither abstract nor generic.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoContextWithName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoContextWithName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No DbContext named '{name}' was found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoMigrationFile" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoMigrationFile">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No file named '{file}' was found. You must manually remove the migration class '{migrationClass}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoMigrationMetadataFile" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoMigrationMetadataFile">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No file named '{file}' was found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NonRelationalProvider" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NonRelationalProvider">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{provider} is not a Relational provider and therefore cannot be use with Migrations.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoParameterlessConstructor" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoParameterlessConstructor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No parameterless constructor was found on '{contextType}'. Either add a parameterless constructor to '{contextType}' or add an implementation of 'IDbContextFactory&lt;{contextType}&gt;' in the same assembly as '{contextType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoSnapshot" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoSnapshot">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No ModelSnapshot was found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoSnapshotFile" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/NoSnapshotFile">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No file named '{file}' was found. You must manually remove the model snapshot class '{snapshotClass}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProjectPathRequired" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ProjectPathRequired">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ProjectPath is required to generate code.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RemovingMigration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/RemovingMigration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Removing migration '{name}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RemovingSnapshot" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/RemovingSnapshot">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Removing model snapshot.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReusingDirectory" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ReusingDirectory">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reusing directory of file '{file}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReusingNamespace" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ReusingNamespace">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reusing namespace of type '{type}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReusingSnapshotName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/ReusingSnapshotName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reusing model snapshot name '{name}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RevertingSnapshot" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/RevertingSnapshot">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reverting model snapshot.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RootNamespaceRequired" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/RootNamespaceRequired">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Root namespace of the project is required to generate code.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SensitiveInformationWarning" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/SensitiveInformationWarning">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnapplyMigration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/UnapplyMigration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The migration '{name}' has already been applied to the database. Unapply it and try again. If the migration has been applied to other databases, consider reverting its changes using a new migration.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownLiteral" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/UnknownLiteral">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The current CSharpHelper cannot scaffold literals of type '{literalType}'. Configure your services to use one that can.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownOperation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/UnknownOperation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The current CSharpMigrationOperationGenerator cannot scaffold operations of type '{operationType}'. Configure your services to use one that can.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnreferencedAssembly" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/UnreferencedAssembly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not load assembly '{assembly}'. Ensure it is referenced by the startup project '{startupProject}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WritingMigration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/WritingMigration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Writing migration to '{file}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WritingSnapshot" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Design.Properties.DesignStrings/WritingSnapshot">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Writing model snapshot to '{file}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.EntityFrameworkCore.Properties.CoreStrings">
+			<NamedResource name="AbstractLeafEntityType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/AbstractLeafEntityType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The corresponding CLR type for entity type '{entityType}' is not instantiable and there is no derived entity type in the model that corresponds to a concrete CLR type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AmbiguousOneToOneRelationship" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/AmbiguousOneToOneRelationship">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The child/dependent side could not be determined for the one-to-one relationship that was detected between '{dependentToPrincipalNavigationSpecification}' and '{principalToDependentNavigationSpecification}'. To identify the child/dependent side of the relationship, configure the foreign key property. See http://go.microsoft.com/fwlink/?LinkId=724062 for more details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AnnotationNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/AnnotationNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The annotation '{annotation}' was not found. Ensure that the annotation has been added.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ArgumentIsEmpty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ArgumentIsEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The string argument '{argumentName}' cannot be empty.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ArgumentPropertyNull" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ArgumentPropertyNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' of the argument '{argument}' cannot be null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadBackingFieldType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/BadBackingFieldType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified field '{field}' of type '{fieldType}' cannot be used for the property '{entityType}.{property}' of type '{propertyType}'. Only backing fields of types that are assignable from the property type can be used.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadValueGeneratorType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/BadValueGeneratorType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{givenType}' cannot be used a a value generator because it does not inherit from '{expectedType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotBeNullable" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CannotBeNullable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' cannot be marked as nullable/optional because the type of the property is '{propertyType}' which is not a nullable type. Any property can be marked as non-nullable/required, but only properties of nullable types and which are not part of primary key can be marked as nullable/optional.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotBeNullablePK" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CannotBeNullablePK">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' cannot be marked as nullable/optional because the property is a part of a key. Any property can be marked as non-nullable/required, but only properties of nullable types and which are not part of a key can be marked as nullable/optional.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotCreateValueGenerator" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CannotCreateValueGenerator">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot create instance of value generator type '{generatorType}'. Ensure that the type is instantiable and has a parameterless constructor, or use the overload of HasValueGenerator that accepts a delegate.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotMaterializeAbstractType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CannotMaterializeAbstractType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to create an instance of type entity type '{entityType}' because it is abstract. Either make it non-abstract or consider mapping at least one derived type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ChangeTrackingInterfaceMissing" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ChangeTrackingInterfaceMissing">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' is configured to use the '{changeTrackingStrategy}' change tracking strategy but does not implement the required '{notificationInterface}' interface.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CircularDependency" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CircularDependency">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to save changes because a circular dependency was detected in the data to be saved: '{cycle}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CircularInheritance" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CircularInheritance">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot inherit from '{baseEntityType}' because '{baseEntityType}' is a descendent of '{entityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClrPropertyOnShadowEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ClrPropertyOnShadowEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot exist on type '{entityType}' because the type is marked as shadow state while the property is not. Shadow state types can only contain shadow state properties.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CollectionArgumentIsEmpty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CollectionArgumentIsEmpty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The collection argument '{argumentName}' must contain at least one element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CollectionIsReference" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CollectionIsReference">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is being accessed using the '{CollectionMethod}' method, but is defined in the model as a non-collection, reference navigation property. Use the '{ReferenceMethod}' method to access reference navigation properties.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CompositeFkOnProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CompositeFkOnProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There are multiple properties pointing to navigation '{navigation}' in entity type '{entityType}'. To define composite foreign key using data annotations, use ForeignKeyAttribute on navigation.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CompositePKWithDataAnnotation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CompositePKWithDataAnnotation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Entity type '{entityType}' has composite primary key defined with data annotations. To set composite primary key, use fluent API.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConcurrentMethodInvocation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ConcurrentMethodInvocation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A second operation started on this context before a previous operation completed. Any instance members are not guaranteed to be thread safe.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConflictingNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ConflictingNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be added to the entity type '{entityType}' because a navigation property with the same name already exists on entity type '{duplicateEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConflictingProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ConflictingProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' cannot be added to the entity type '{entityType}' because a property with the same name already exists on entity type '{duplicateEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConflictingRelationshipNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ConflictingRelationshipNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot create a relationship between '{newPrincipalEntityType}.{newPrincipalNavigation}' and '{newDependentEntityType}.{newDependentNavigation}', because there already is a relationship between '{existingPrincipalEntityType}.{existingPrincipalNavigation}' and '{existingDependentEntityType}.{existingDependentNavigation}'. Navigation properties can only participate in a single relationship.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ContextDisposed" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ContextDisposed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot access a disposed object. A common cause of this error is disposing a context that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling Dispose() on the context, or wrapping the context in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CustomMetadata" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/CustomMetadata">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The extension method ‘{method}’ is being used with a custom implementation of ‘{interfaceType}’. Use of custom implementations of the Entity Framework metadata interfaces is not supported. Consider deriving from ‘{concreteType}’ instead. Please contact the Entity Framework team if you have a compelling case for a custom implementation of the metadata interfaces so that we can consider ways to achieve this.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DatabaseGeneratedNull" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DatabaseGeneratedNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The database generated a null value for non-nullable property '{property}' of entity type '{entityType}'. Ensure value generation configuration in the database matches the configuration in the model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataBindingWithIListSource" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DataBindingWithIListSource">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Data binding directly to a store query is not supported. Instead populate a DbSet with data, for example by calling Load on the DbSet, and then bind to local data to avoid sending a query to the database each time the databound control iterates the data. For WPF bind to DbSet.Local. For WinForms bind to DbSet.Local.ToBindingList(). For ASP.NET WebForms bind to DbSet.ToList() or use Model Binding.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DependentEntityTypeNotInRelationship" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DependentEntityTypeNotInRelationship">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You are configuring a relationship between '{dependentEntityType}' and '{principalEntityType}' but have specified a foreign key on '{entityType}'. The foreign key must be defined on a type that is part of the relationship.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DerivedEntityCannotHaveKeys" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DerivedEntityCannotHaveKeys">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to set a base type for entity type '{entityType}' because it has one or more keys defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DerivedEntityTypeKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DerivedEntityTypeKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A key cannot be configured on '{derivedType}' because it is a derived type. The key must be configured on the root type '{rootType}'. If you did not intend for '{rootType}' to be included in the model, ensure that it is not included in a DbSet property on your context, referenced in a configuration call to ModelBuilder, or referenced from a navigation property on a type that is included in the model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateAnnotation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateAnnotation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The annotation '{annotation}' cannot be added because an annotation with the same name already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateEntityType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateEntityType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot be added to the model because an entity with the same name already exists.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateForeignKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateForeignKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign key {foreignKey} cannot be added to the entity type '{entityType}' because a foreign key on the same properties already exists on entity type '{duplicateEntityType}' and also targets the key {key} on '{principalType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateIndex" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The index {index} cannot be added to the entity type '{entityType}' because an index on the same properties already exists on entity type '{duplicateEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The key {key} cannot be added to the entity type '{entityType}' because a key on the same properties already exists on entity type '{duplicateEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' cannot be added to the entity type '{entityType}' because a navigation property with the same name already exists on entity type '{duplicateEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateNavigationsOnBase" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateNavigationsOnBase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{entityType}' cannot have base type '{baseType}' because both types include the navigations: {navigations}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicatePropertiesOnBase" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicatePropertiesOnBase">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{entityType}' cannot have base type '{baseType}' because both types include the properties: {properties}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/DuplicateProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be added to the entity type '{entityType}' because a property with the same name already exists on entity type '{duplicateEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityRequiresKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityRequiresKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' requires a primary key to be defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypeInUseByDerived" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypeInUseByDerived">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot be removed because '{derivedEntityType}' is derived from it. All derived entity types must be removed or redefined before the entity type can be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypeInUseByForeignKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypeInUseByForeignKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot be removed because it is being referenced by foreign key {foreignKey} on '{referencingEntityType}'. All referencing foreign keys must be removed or redefined before the entity type can be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypeModelMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypeModelMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity types '{firstEntityType}' and '{secondEntityType}' do not belong to the same model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypeNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypeNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' was not found. Ensure that the entity type has been added to the model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypeNotInRelationship" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypeNotInRelationship">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified entity type '{entityType}' is invalid. It should be either the dependent entity type '{dependentType}' or the principal entity type '{principalType}' or an entity type derived from one of them.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypeNotInRelationshipStrict" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypeNotInRelationshipStrict">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified entity type '{entityType}' is invalid. It should be either the dependent entity type '{dependentType}' or the principal entity type '{principalType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EntityTypesNotInRelationship" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/EntityTypesNotInRelationship">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified entity types '{invalidDependentType}' and '{invalidPrincipalType}' are invalid. They should be '{dependentType}' and '{principalType}' or entity types in the same hierarchy.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorMaterializingProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ErrorMaterializingProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occured while reading a database value for property '{entityType}.{property}'. See the inner exception for more information.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorMaterializingPropertyInvalidCast" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ErrorMaterializingPropertyInvalidCast">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occured while reading a database value for property '{entityType}.{property}'. The expected type was '{expectedType}' but the actual value was of type '{actualType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorMaterializingPropertyNullReference" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ErrorMaterializingPropertyNullReference">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occured while reading a database value for property '{entityType}.{property}'. The expected type was '{expectedType}' but the actual value was null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorMaterializingValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ErrorMaterializingValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occured while reading a database value. See the inner exception for more information.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorMaterializingValueInvalidCast" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ErrorMaterializingValueInvalidCast">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occured while reading a database value. The expected type was '{expectedType}' but the actual value was of type '{actualType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ErrorMaterializingValueNullReference" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ErrorMaterializingValueNullReference">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occured while reading a database value. The expected type was '{expectedType}' but the actual value was null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExecutionStrategyExistingTransaction" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ExecutionStrategyExistingTransaction">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The configured execution strategy '{strategy}' does not support user initiated transactions. Use the execution strategy returned by '{getExecutionStrategyMethod}' to execute all the operations in the transaction as a retriable unit.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpressionParameterizationException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ExpressionParameterizationException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExpressionParameterizationExceptionSensitive" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ExpressionParameterizationExceptionSensitive">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception was thrown while attempting to evaluate the LINQ query parameter expression '{expression}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FindNotCompositeKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/FindNotCompositeKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Entity type '{entityType}' is defined with a single key property, but {valuesCount} values were passed to the 'DbSet.Find' method.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FindValueCountMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/FindValueCountMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Entity type '{entityType}' is defined with a {propertiesCount}-part composite key, but {valuesCount} values were passed to the 'DbSet.Find' method.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FindValueTypeMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/FindValueTypeMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The key value at position {index} of the call to 'DbSet&lt;{entityType}&gt;.Find' was of type '{valueType}', which does not match the property type of '{propertyType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FkAttributeOnPropertyNavigationMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/FkAttributeOnPropertyNavigationMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The ForeignKeyAttributes on property '{property}' and navigation '{navigation}' in entity type '{entityType}' do not point at each other. The value of ForeignKeyAttribute on property should be navigation name and the value of ForeignKeyAttribute on navigation should be the foreign key property name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyCannotBeOptional" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ForeignKeyCannotBeOptional">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign key {foreignKey} on entity type '{entityType}' cannot be marked as optional because it does not contain any property of a nullable type. Any foreign key can be marked as required, but only foreign keys with at least one property of a nullable type and which is not part of primary key can be marked as optional.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyCountMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ForeignKeyCountMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The number of properties specified for the foreign key {foreignKey} on entity type '{dependentType}' does not match the number of properties in the principal key {principalKey} on entity type '{principalType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyPropertiesWrongEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ForeignKeyPropertiesWrongEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified foreign key properties {foreignKey} are not declared on the entity type '{entityType}'. Ensure foreign key properties are declared on the target entity type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyPropertyInKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ForeignKeyPropertyInKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be part of a foreign key on '{entityType}' because it is contained in a key defined on a base entity type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyReferencedEntityKeyMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ForeignKeyReferencedEntityKeyMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The provided principal entity key '{principalKey}' is not a key on the entity type '{principalEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyTypeMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ForeignKeyTypeMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The types of the properties specified for the foreign key {foreignKey} on entity type '{dependentType}' do not match the types of the properties in the principal key {principalKey} on entity type '{principalType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GraphDoesNotContainVertex" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/GraphDoesNotContainVertex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The edge cannot be added because the graph does not contain vertex '{vertex}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HiLoBadBlockSize" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/HiLoBadBlockSize">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The block size used for Hi-Lo value generation must be positive. When the Hi-Lo generator is backed by a SQL sequence this means that the sequence increment must be positive.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IdentityConflict" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IdentityConflict">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The instance of entity type '{entityType}' cannot be tracked because another instance of this type with the same key is already being tracked. When adding new entities, for most key types a unique temporary key value will be created if no key is set (i.e. if the key property is assigned the default value for its type). If you are explicitly setting key values for new entities, ensure they do not collide with existing entities or temporary values generated for other new entities. When attaching existing entities, ensure that only one entity instance with a given key value is attached to the context.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncludeBadNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IncludeBadNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' is not a navigation property of entity type '{entityType}'. The 'Include(string)' method can only be used with a '.' separated list of navigation property names.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncludeNonBindableExpression" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IncludeNonBindableExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The expression '{expression}' passed to the Include operator could not be bound.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncludeNotImplemented" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IncludeNotImplemented">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The Include operator is not implemented by the current database provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InconsistentInheritance" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InconsistentInheritance">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' should derive from '{baseEntityType}' to reflect the hierarchy of the corresponding CLR types.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IndexPropertiesWrongEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IndexPropertiesWrongEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified index properties {index} are not declared on the entity type '{entityType}'. Ensure index properties are declared on the target entity type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InheritedPropertyCannotBeIgnored" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InheritedPropertyCannotBeIgnored">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be ignored on entity type '{entityType}', because it's declared on the base entity type '{baseEntityType}'. To exclude this property from your model, use NotMappedAttribute or Ignore method on the base type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InterfacePropertyNotAdded" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InterfacePropertyNotAdded">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{entityType}.{navigation}' is of an interface type ('{propertyType}'). If it is a navigation property manually configure the relationship for this property by casting it to a mapped entity type, otherwise ignore the property from the model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IntraHierarchicalAmbiguousTargetEntityType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IntraHierarchicalAmbiguousTargetEntityType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type related to '{entityType}' cannot be determined because the specified foreign key {foreignKey} references entity type '{principalEntityType}' that it is in the same hierarchy as the entity type that it is declared on '{dependentEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidComplexPropertyExpression" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidComplexPropertyExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property expression '{propertyAccessExpression}' is not valid. The expression should represent a property access: 't =&gt; t.MyProperty'. For more information on including related data, see http://go.microsoft.com/fwlink/?LinkID=746393.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidEntityType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidEntityType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{type}' provided for the argument '{argumentName}' must be a reference type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidEnumValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidEnumValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value provided for argument '{argumentName}' must be a valid value of enum type '{enumType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidKeyValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidKeyValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to create or track an entity of type '{entityType}' because it has a null primary or alternate key value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidMemberInitBinding" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidMemberInitBinding">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unhandled operation: MemberInitExpression binding is not a MemberAssignment</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidNavigationWithInverseProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidNavigationWithInverseProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The InversePropertyAttribute on property '{property}' on type '{entityType}' is not valid. The property '{referencedProperty}' is not a valid navigation property on the related type '{referencedEntityType}'. Ensure that the property exists and is a valid reference or collection navigation property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidPropertiesExpression" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidPropertiesExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The properties expression '{expression}' is not valid. The expression should represent a property access: 't =&gt; t.MyProperty'. When specifying multiple properties use an anonymous type: 't =&gt; new {{ t.MyProperty1, t.MyProperty2 }}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidPropertyExpression" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidPropertyExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The expression '{expression}' is not a valid property expression. The expression should represent a property access: 't =&gt; t.MyProperty'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidPropertyListOnNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidPropertyListOnNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property list specified using ForeignKeyAttribute on navigation '{navigation}' in entity type '{entityType}' is incorrect. The attribute value should be comma-separated list of property names.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidRelationshipUsingDataAnnotations" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidRelationshipUsingDataAnnotations">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid relationship has been specified using InverseProperty and ForeignKey. The navigation '{navigation}' in entity type '{entityType}' and the navigation '{referencedNavigation}' in entity type '{referencedEntityType}' are related by InversePropertyAttribute but the ForeignKeyAttribute specified for both navigations have different values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidReplaceService" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidReplaceService">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A call was made to {replaceService}, but Entity Framework is not building its own internal service provider. Either allow EF to build the service provider by removing the call to {useInternalServiceProvider}, or build replacement services into the service provider before passing it to {useInternalServiceProvider}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidSetType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidSetType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot create a DbSet for '{typeName}' because this type is not included in the model for the context.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value for property '{property}' of entity type '{entityType}' cannot be set to a value of type '{valueType}' because its type is '{propertyType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidValueGeneratorFactoryProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InvalidValueGeneratorFactoryProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The '{factory}' cannot create a value generator for property '{property}' on entity type '{entityType}'. Only integer properties are supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InversePropertyMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/InversePropertyMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>InversePropertyAttributes on navigation '{navigation}' in entity type '{entityType}' and on navigation '{referencedNavigation}' in entity type '{referencedEntityType}' are not pointing to each other.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IQueryableNotAsync" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IQueryableNotAsync">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The source IQueryable doesn't implement IAsyncEnumerable&lt;{genericParameter}&gt;. Only sources that implement IAsyncEnumerable can be used for Entity Framework asynchronous operations.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IQueryableProviderNotAsync" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/IQueryableProviderNotAsync">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The provider for the source IQueryable doesn't implement IAsyncQueryProvider. Only providers that implement IEntityQueryProvider can be used for Entity Framework asynchronous operations.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyAttributeOnDerivedEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/KeyAttributeOnDerivedEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The derived type '{derivedType}' cannot have KeyAttribute on property '{property}' since primary key can only be declared on the root type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyInUse" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/KeyInUse">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot remove key {key} from entity type '{entityType}' because it is referenced by a foreign key in entity type '{dependentType}'. All foreign keys must be removed or redefined before the referenced key can be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyPropertiesWrongEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/KeyPropertiesWrongEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified key properties {key} are not declared on the entity type '{entityType}'. Ensure key properties are declared on the target entity type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyPropertyInForeignKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/KeyPropertyInForeignKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be part of a key on '{entityType}' because it is contained in a foreign key defined on a derived entity type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyPropertyMustBeReadOnly" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/KeyPropertyMustBeReadOnly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' must be marked as read-only after it has been saved because it is part of a key. Key properties are always read-only once an entity has been saved for the first time.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyReadOnly" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/KeyReadOnly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is part of a key and so cannot be modified or marked as modified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogCompilingQueryModel" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/LogCompilingQueryModel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Compiling query model: {newline}'{queryModel}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogExceptionDuringQueryIteration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/LogExceptionDuringQueryIteration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occurred in the database while iterating the results of a query.{newline}{error}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogExceptionDuringSaveChanges" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/LogExceptionDuringSaveChanges">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An exception occurred in the database while saving changes.{newline}{error}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogIgnoredInclude" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/LogIgnoredInclude">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The Include operation for navigation: '{navigation}' was ignored because the target navigation is not reachable in the final query results.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogIncludingNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/LogIncludingNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Including navigation: '{navigation}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LogOptimizedQueryModel" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/LogOptimizedQueryModel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Optimized query model: {newline}'{queryModel}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingBackingField" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/MissingBackingField">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified field '{field}' could not be found for property '{property}' on entity type '{entityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MoreThanOneElement" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/MoreThanOneElement">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sequence contains more than one element</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleEntries" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/MultipleEntries">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot start tracking InternalEntityEntry for entity type '{entityType}' because another InternalEntityEntry is already tracking the same entity.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleNavigationsSameFk" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/MultipleNavigationsSameFk">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>There are multiple navigations in entity type '{entityType}' which are pointing to same set of properties - '{propertyList}' using ForeignKeyAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleProvidersAvailable" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/MultipleProvidersAvailable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The database providers {storeNames}are available. A context can only be configured to use a single database provider. Configure a database provider by overriding OnConfiguring in your DbContext class or in the AddDbContext method when setting up services.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleProvidersConfigured" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/MultipleProvidersConfigured">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The database providers {storeNames}are configured. A context can only be configured to use a single database provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationArray" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationArray">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type of navigation property '{navigation}' on the entity type '{entityType}' is '{foundType}' which is an array type.. Collection navigation properties cannot be arrays.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationBadType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationBadType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type of navigation property '{navigation}' on the entity type '{entityType}' is '{foundType}' which does not implement ICollection&lt;{targetType}&gt;. Collection navigation properties must implement ICollection&lt;&gt; of the target type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationCannotCreateType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationCannotCreateType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type of navigation property '{navigation}' on the entity type '{entityType}' is '{foundType}' for which it was not possible to create a concrete instance. Either initialize the property before use, add a public parameterless constructor to the type, or use a type which can be assigned a HashSet&lt;&gt; or List&lt;&gt;.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationCollectionWrongClrType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationCollectionWrongClrType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The collection navigation property '{navigation}' cannot be added to the entity type '{entityType}' because its CLR type '{clrType}' does not implement 'IEnumerable&lt;{targetType}&gt;'. Collection navigation properties must implement IEnumerable&lt;&gt; of the related entity.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationForWrongForeignKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationForWrongForeignKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' on entity type '{entityType}' cannot be associated with foreign key {targetFk} because it was created for foreign key {actualFk}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationIsProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationIsProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is being accessed using the '{ReferenceMethod}' or '{CollectionMethod}' method, but is defined in the model as a non-navigation property. Use the '{PropertyMethod}' method to access non-navigation properties.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationNoSetter" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationNoSetter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' on the entity type '{entityType}' does not have a setter and no writable backing field was found or specified. Read-only collection navigation properties must be initialized before use.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationNotAdded" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationNotAdded">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to determine the relationship represented by navigation property '{entityType}.{navigation}' of type '{propertyType}'. Either manually configure the relationship, or ignore this property from the model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationSingleWrongClrType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationSingleWrongClrType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' cannot be added to the entity type '{entityType}' because its CLR type '{clrType}' does not match the expected CLR type '{targetType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationToShadowEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NavigationToShadowEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' cannot be added to the entity type '{entityType}' because the target entity type '{targetType}' is defined in shadow state and navigations properties cannot point to shadow state entities.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoBackingField" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoBackingField">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No field was found backing property '{property}' of entity type '{entity}'. Either configure a backing field or use a different '{pam}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoClrNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoClrNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The navigation property '{navigation}' cannot be added to the entity type '{entityType}' because there is no corresponding CLR property on the underlying type and navigations properties cannot be added to shadow state.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoClrType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoClrType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The CLR entity materializer cannot be used for entity type '{entityType}' because it is a shadow state entity type.  Materialization to a CLR type is only possible for entity types that have a corresponding CLR type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoEfServices" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoEfServices">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Entity Framework services have not been added to the internal service provider. Either remove the call to UseInternalServiceProvider so that EF will manage its own internal services, or use the method from your database provider to add the required services to the service provider (e.g. AddEntityFrameworkSqlServer).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoElements" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoElements">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sequence contains no elements</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoFieldOrGetter" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoFieldOrGetter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No backing field could be found for property '{property}' of entity type '{entity}' and the property does not have a getter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoFieldOrSetter" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoFieldOrSetter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No backing field could be found for property '{property}' of entity type '{entity}' and the property does not have a setter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoGetter" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoGetter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' of entity type '{entity}' does not have a getter. Either make the property readable or use a different '{pam}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NonClrBaseType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NonClrBaseType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot inherit from '{baseEntityType}' because '{baseEntityType}' is a shadow state entity type while '{entityType}' is not.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NonGenericOptions" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NonGenericOptions">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The DbContextOptions passed to the {contextType} constructor must be a DbContextOptions&lt;{contextType}&gt;. When registering multiple DbContext types make sure that the constructor for each context type has a DbContextOptions&lt;TContext&gt; parameter rather than a non-generic DbContextOptions parameter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NonNotifyingCollection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NonNotifyingCollection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The collection type being used for navigation property '{navigation}' on entity type '{entityType}' does not implement 'INotifyCollectionChanged'. Any entity type configured to use the '{changeTrackingStrategy}' change tracking strategy must use collections that implement 'INotifyCollectionChanged'. Consider using 'ObservableCollection&lt;T&gt;' for this.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NonShadowBaseType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NonShadowBaseType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot inherit from '{baseEntityType}' because '{entityType}' is a shadow state entity type while '{baseEntityType}' is not.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoParameterlessConstructor" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoParameterlessConstructor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A parameterless constructor was not found on entity type '{entityType}'. In order to create an instance of '{entityType}' EF requires that a parameterless constructor be declared.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No property was associated with field '{field}' of entity type '{entity}'. Either configure a property or use a different '{pam}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoPropertyType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoPropertyType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be added to the type '{entityType}' because there was no property type specified and there is no corresponding CLR property or field. To add a shadow state property the property type must be specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoProviderConfigured" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoProviderConfigured">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No database provider has been configured for this DbContext. A provider can be configured by overriding the DbContext.OnConfiguring method or by using AddDbContext on the application service provider. If AddDbContext is used, then also ensure that your DbContext type accepts a DbContextOptions&lt;TContext&gt; object in its constructor and passes it to the base constructor for DbContext.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoProviderConfiguredFailedToResolveService" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoProviderConfiguredFailedToResolveService">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to resolve service for type '{service}'. This is often because no database provider has been configured for this DbContext. A provider can be configured by overriding the DbContext.OnConfiguring method or by using AddDbContext on the application service provider. If AddDbContext is used, then also ensure that your DbContext type accepts a DbContextOptions&lt;TContext&gt; object in its constructor and passes it to the base constructor for DbContext.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoSetter" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoSetter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' of entity type '{entity}' does not have a setter. Either make the property writable or use a different '{pam}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotAssignableClrBaseType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NotAssignableClrBaseType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' cannot inherit from '{baseEntityType}' because '{clrType}' is not a descendent of '{baseClrType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoValueGenerator" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NoValueGenerator">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The '{property}' on entity type '{entityType}' does not have a value set and no value generator is available for properties of type '{propertyType}'. Either set a value for the property before adding the entity or configure a value generator for properties of type '{propertyType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NullableKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/NullableKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A key on entity type '{entityType}' cannot contain the property '{property}' because it is nullable/optional. All properties on which a key is declared must be marked as non-nullable/required.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ObservableCollectionReentrancy" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ObservableCollectionReentrancy">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot change ObservableHashSet during a CollectionChanged event.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OptionsExtensionNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/OptionsExtensionNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Options extension of type '{optionsExtension}' not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OriginalValueNotTracked" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/OriginalValueNotTracked">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The original value for property '{property}' of entity type '{entityType}' cannot be accessed because it is not being tracked. Original values are not recorded for most properties of entities when the 'ChangingAndChangedNotifications' strategy is used. To access all original values use a different change tracking strategy such as 'ChangingAndChangedNotificationsWithOriginalValues'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PrincipalEntityTypeNotInRelationship" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PrincipalEntityTypeNotInRelationship">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You are configuring a relationship between '{dependentEntityType}' and '{principalEntityType}' but have specified a foreign key targeting '{entityType}'. The foreign key must be targeting a type that is part of the relationship.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyCalledOnNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyCalledOnNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot call Property for the property '{property}' on entity type '{entityType}' because it is configured as a navigation property. Property can only be used to configure scalar properties.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyConceptualNull" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyConceptualNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is marked as null, but this cannot be saved because the property is marked as required.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyDoesNotBelong" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyDoesNotBelong">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' belongs to entity type '{entityType}' but is being used with an instance of entity type '{expectedType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyInUseForeignKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyInUseForeignKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be removed from entity type '{entityType}' because it is being used in the foreign key {foreignKey} on '{foreignKeyType}'. All containing foreign keys must be removed or redefined before the property can be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyInUseIndex" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyInUseIndex">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be removed from entity type '{entityType}' because it is being used in the index {index} on '{indexType}'. All containing indexes must be removed or redefined before the property can be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyInUseKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyInUseKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be removed from entity type '{entityType}' because it is being used in the key {key}. All containing keys must be removed or redefined before the property can be removed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyIsNavigation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyIsNavigation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is being accessed using the '{PropertyMethod}' method, but is defined in the model as a navigation property. Use either the '{ReferenceMethod}' or '{CollectionMethod}' method to access navigation properties.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyMethodInvoked" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyMethodInvoked">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The EF.Property&lt;T&gt; method may only be used within LINQ queries.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyNotAdded" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyNotAdded">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{entityType}.{property}' could not be mapped, because it is of type '{propertyType}' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' could not be found. Ensure that the property exists and has been included in the model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyNotMapped" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyNotMapped">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{entityType}.{property}' is of type '{propertyType}' which is not supported by current database provider. Either change the property CLR type or manually configure the database type for it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyReadOnlyAfterSave" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyReadOnlyAfterSave">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is defined to be read-only after it has been saved, but its value has been modified or marked as modified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyReadOnlyBeforeSave" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyReadOnlyBeforeSave">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is defined to be read-only before it is saved, but its value has been set to something other than a temporary or default value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyWrongClrType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyWrongClrType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' cannot be added to type '{entityType}' because the type of the corresponding CLR property or field '{clrType}' does not match the specified type '{propertyType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PropertyWrongEntityClrType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/PropertyWrongEntityClrType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>CLR property '{property}' cannot be added to entity type '{entityType}' because it is declared on the CLR type '{clrType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadonlyField" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ReadonlyField">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Field '{field}' of entity type '{entity}' is readonly and so cannot be set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RecursiveOnConfiguring" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/RecursiveOnConfiguring">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An attempt was made to use the context while it is being configured. A DbContext instance cannot be used inside OnConfiguring since it is still being configured at this point.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RecursiveOnModelCreating" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/RecursiveOnModelCreating">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An attempt was made to use the model while it was being created. A DbContext instance cannot be used inside OnModelCreating in any way that makes use of the model that is being created.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReferencedShadowKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ReferencedShadowKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The relationship from '{referencingEntityTypeOrNavigation}' to '{referencedEntityTypeOrNavigation}' with foreign key properties {foreignKeyPropertiesWithTypes} cannot target the primary key {primaryKeyPropertiesWithTypes} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReferenceIsCollection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ReferenceIsCollection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' is being accessed using the '{ReferenceMethod}' method, but is defined in the model as a collection navigation property. Use the '{CollectionMethod}' method to access collection navigation properties.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReferenceMustBeLoaded" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ReferenceMustBeLoaded">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Navigation property '{navigation}' on entity type '{entityType}' cannot have 'IsLoaded' set to false because the referenced entity is non-null and therefore is loaded.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationshipCannotBeInverted" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/RelationshipCannotBeInverted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The principal and dependent ends of the relationship cannot be flipped once foreign key or principal key properties have been specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationshipConceptualNull" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/RelationshipConceptualNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The association between entity types '{firstType}' and '{secondType}' has been severed but the foreign key for this relationship cannot be set to null. If the dependent entity should be deleted, then setup the relationship to use cascade deletes.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResetNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ResetNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'ObservableCollection&lt;T&gt;.Clear()' is not supported because it uses the 'INotifyCollectionChanged' 'Reset' operation, which does not supply the items removed. Either use multiple calls to 'Remove' or use a notifying collection that supports 'Clear', such as 'Microsoft.EntityFrameworkCore.ChangeTracking.ObservableHashSet&lt;T&gt;'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RetryLimitExceeded" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/RetryLimitExceeded">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Maximum number of retries ({retryLimit}) exceeded while executing database operations with '{strategy}'. See inner exception for the most recent failure.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SelfReferencingNavigationWithInverseProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/SelfReferencingNavigationWithInverseProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A relationship cannot be established from property '{property}' on type '{entityType}' to property '{referencedProperty}' on type '{referencedEntityType}'. Check the values in the InversePropertyAttribute to ensure relationship definitions are unique and reference from one navigation property to its corresponding inverse navigation property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SensitiveDataLoggingEnabled" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/SensitiveDataLoggingEnabled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data, this mode should only be enabled during development.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ShadowEntity" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ShadowEntity">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Entity type '{entityType}' is in shadow-state. A valid model requires all entity types to have corresponding CLR type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ShadowKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ShadowKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The key {key} on entity type '{entityType}' contains properties in shadow state - {shadowProperties}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TempValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/TempValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' has a temporary value. Either set a permanent value explicitly or ensure that the database is configured to generate values for this property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TempValuePersists" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/TempValuePersists">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The property '{property}' on entity type '{entityType}' has a temporary value while attempting to change the entity's state to '{state}'. Either set a permanent value explicitly or ensure that the database is configured to generate values for this property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ValueCannotBeNull" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/ValueCannotBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value for property '{property}' of entity type '{entityType}' cannot be set to null because its type is '{propertyType}' which is not a nullable type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WarningAsErrorTemplate" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/WarningAsErrorTemplate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Warning as error exception for warning '{eventId}': {message} To suppress this Exception use the DbContextOptionsBuilder.ConfigureWarnings API. ConfigureWarnings can be used when overriding the DbContext.OnConfiguring method or using AddDbContext on the application service provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WarningLogTemplate" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/WarningLogTemplate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{message} To configure this warning use the DbContextOptionsBuilder.ConfigureWarnings API (event id '{eventId}'). ConfigureWarnings can be used when overriding the DbContext.OnConfiguring method or using AddDbContext on the application service provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WrongGenericPropertyType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/WrongGenericPropertyType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Property '{property}' on entity type '{entityType}' is of type '{actualType}' but the generic type provided is of type '{genericType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WrongStateManager" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Properties.CoreStrings/WrongStateManager">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot start tracking InternalEntityEntry for entity type '{entityType}' because it was created by a different StateManager instance.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings">
+			<NamedResource name="BadSequenceType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/BadSequenceType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>For sequence '{sequenceName}'. Unable to scaffold because it uses an unsupported type: '{typeName}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotFindTypeMappingForColumn" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/CannotFindTypeMappingForColumn">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not find type mapping for column '{columnName}' with data type '{dateType}'. Skipping column.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ExistingFiles" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ExistingFiles">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The following file(s) already exist in directory {outputDirectoryName}: {existingFiles}. Use the Force flag to overwrite these files.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyScaffoldErrorPrincipalKeyNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ForeignKeyScaffoldErrorPrincipalKeyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not scaffold the foreign key '{foreignKeyName}'. A key for '{columnsList}' was not found in the principal entity type '{principalEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyScaffoldErrorPrincipalTableNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ForeignKeyScaffoldErrorPrincipalTableNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not scaffold the foreign key '{foreignKeyName}'. The referenced table could not be found. This most likely occurred because the referenced table was excluded from scaffolding.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyScaffoldErrorPrincipalTableScaffoldingError" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ForeignKeyScaffoldErrorPrincipalTableScaffoldingError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not scaffold the foreign key '{foreignKeyName}'. The referenced table '{principalTableName}' could not be scaffolded.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ForeignKeyScaffoldErrorPropertyNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ForeignKeyScaffoldErrorPropertyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not scaffold the foreign key '{foreignKeyName}'.  The following columns in the foreign key could not be scaffolded: {columnNames}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingPrimaryKey" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/MissingPrimaryKey">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to identify the primary key for table '{tableName}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingSchema" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/MissingSchema">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to find a schema in the database matching the selected schema {schema}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingTable" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/MissingTable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to find a table in the database matching the selected table {table}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingUseProviderMethodNameAnnotation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/MissingUseProviderMethodNameAnnotation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot scaffold the connection string. The "UseProviderMethodName" is missing from the scaffolding model.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PrimaryKeyErrorPropertyNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/PrimaryKeyErrorPropertyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not scaffold the primary key for '{tableName}'. The following columns in the primary key could not be scaffolded: {columnNames}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ProviderReturnedNullModel" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ProviderReturnedNullModel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Metadata model returned should not be null. Provider: {providerTypeName}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ReadOnlyFiles" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/ReadOnlyFiles">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No files generated in directory {outputDirectoryName}. The following file(s) already exist and must be made writeable to continue: {readOnlyFiles}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SequencesRequireName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/SequencesRequireName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sequence name cannot be null or empty. Entity Framework cannot model a sequence that does not have a name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToGenerateEntityType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/UnableToGenerateEntityType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to generate entity type for table '{tableName}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToScaffoldIndexMissingProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Design.Properties.RelationalDesignStrings/UnableToScaffoldIndexMissingProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to scaffold the index '{indexName}'. The following columns could not be scaffolded: {columnNames}.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings">
+			<NamedResource name="AmbientTransaction" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/AmbientTransaction">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An ambient transaction has been detected. Entity Framework Core does not support ambient transactions. See http://go.microsoft.com/fwlink/?LinkId=800142</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApplyingMigration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ApplyingMigration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Applying migration '{migration}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadSequenceString" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/BadSequenceString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to deserialize sequence from model metadata. See inner exception for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BadSequenceType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/BadSequenceType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid type for sequence. Valid types are 'Int64' (the default), 'Int32', 'Int16', and 'Byte'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ClientEvalWarning" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ClientEvalWarning">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The LINQ expression '{expression}' could not be translated and will be evaluated locally.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConflictingColumnServerGeneration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ConflictingColumnServerGeneration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{conflictingConfiguration} cannot be set for '{property}', because {existingConfiguration} is already set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConflictingRowUpdates" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ConflictingRowUpdates">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Two entities cannot make conflicting updates to the same row.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionAndConnectionString" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ConnectionAndConnectionString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Both an existing DbConnection and a connection string have been configured. When an existing DbConnection is used the connection string must be set on that connection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DiscriminatorEntityTypeNotDerived" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DiscriminatorEntityTypeNotDerived">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot configure the discriminator value for entity type '{entityType}' because it doesn't derive from '{rootEntityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DiscriminatorPropertyMustBeOnRoot" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DiscriminatorPropertyMustBeOnRoot">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A discriminator property cannot be set for the entity type '{entityType}' because it is not the root of an inheritance hierarchy.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DiscriminatorPropertyNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DiscriminatorPropertyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to set property '{property}' as a discriminator for entity type '{entityType}' because it is not a property of '{entityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DiscriminatorValueIncompatible" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DiscriminatorValueIncompatible">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot set discriminator value '{value}' for discriminator property '{discriminator}' because it is not assignable to property of type '{discriminatorType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateColumnNameComputedSqlMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateColumnNameComputedSqlMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{entityType1}.{property1}' and '{entityType2}.{property2}' are both mapped to column '{columnName}' in '{table}' but are configured to use different computed values ('{value1}' and '{value2}').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateColumnNameDataTypeMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateColumnNameDataTypeMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{entityType1}.{property1}' and '{entityType2}.{property2}' are both mapped to column '{columnName}' in '{table}' but are configured to use different data types ('{dataType1}' and '{dataType2}').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateColumnNameDefaultSqlMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateColumnNameDefaultSqlMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{entityType1}.{property1}' and '{entityType2}.{property2}' are both mapped to column '{columnName}' in '{table}' but are configured to use different default values ('{value1}' and '{value2}').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateColumnNameNullabilityMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateColumnNameNullabilityMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{entityType1}.{property1}' and '{entityType2}.{property2}' are both mapped to column '{columnName}' in '{table}' but are configured with different nullability.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateDiscriminatorValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateDiscriminatorValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The discriminator value for '{entityType1}' is '{discriminatorValue}' which is the same for '{entityType2}'. Every concrete entity type in the hierarchy needs to have a unique discriminator value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateForeignKeyColumnMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateForeignKeyColumnMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign keys {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{foreignKeyName}' but use different columns ({columnNames1} and {columnNames2}).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateForeignKeyDeleteBehaviorMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateForeignKeyDeleteBehaviorMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign keys {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{foreignKeyName}' but with different delete behavior ('{deleteBehavior1}' and '{deleteBehavior2}').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateForeignKeyPrincipalColumnMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateForeignKeyPrincipalColumnMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign keys {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{foreignKeyName}' but referencing different principal columns ({principalColumnNames1} and {principalColumnNames2}).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateForeignKeyPrincipalTableMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateForeignKeyPrincipalTableMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign keys {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{foreignKeyName}' but referencing different principal tables ('{principalTable1}' and '{principalTable2}').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateForeignKeyUniquenessMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateForeignKeyUniquenessMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The foreign keys {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{foreignKeyName}' but with different uniqueness.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateIndexColumnMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateIndexColumnMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The indexes {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{indexName}' but with different columns ({columnNames1} and {columnNames2}).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateIndexUniquenessMismatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateIndexUniquenessMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The indexes {index1} on '{entityType1}' and {index2} on '{entityType2}' are both mapped to '{table}.{indexName}' but with different uniqueness.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DuplicateTableName" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/DuplicateTableName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot use table '{table}' in schema '{schema}' for entity '{entityType}' since it is being used for another entity.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FromSqlMissingColumn" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/FromSqlMissingColumn">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The required column '{column}' was not present in the results of a 'FromSql' operation.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GeneratingDown" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/GeneratingDown">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Generating down script for migration '{migration}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GeneratingUp" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/GeneratingUp">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Generating up script for migration '{migration}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IncorrectDefaultValueType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/IncorrectDefaultValueType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot set default value '{value}' of type '{valueType}' on property '{property}' of type '{propertyType}' in entity type '{entityType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCommandTimeout" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/InvalidCommandTimeout">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified CommandTimeout value is not valid. It must be a positive number.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidMaxBatchSize" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/InvalidMaxBatchSize">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified MaxBatchSize value is not valid. It must be a positive number.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeyHasDefaultValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/KeyHasDefaultValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Property '{property}' on entity type '{entityType}' is part of a primary or alternate key but has a constant default value set. Constant default values are not useful for primary or alternate keys since these properties must always have non-null unqiue values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MigrationNotFound" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/MigrationNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The migration '{migrationName}' was not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingParameterValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/MissingParameterValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No value provided for required parameter '{parameter}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ModificationFunctionInvalidEntityState" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ModificationFunctionInvalidEntityState">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot create a ModificationFunction for an entity in state '{entityState}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MultipleProvidersConfigured" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/MultipleProvidersConfigured">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Multiple relational database provider configurations found. A context can only be configured to use a single database provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoActiveTransaction" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/NoActiveTransaction">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection does not have any active transactions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConnectionOrConnectionString" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/NoConnectionOrConnectionString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A relational store has been configured without specifying either the DbConnection or connection string to use.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoDiscriminatorForValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/NoDiscriminatorForValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot set discriminator value for entity type '{entityType}' because the root entity type '{rootEntityType}' doesn't have a discriminator property set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoDiscriminatorProperty" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/NoDiscriminatorProperty">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' is part of a hierarchy, but does not have a discriminator property configured.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoDiscriminatorValue" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/NoDiscriminatorValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The entity type '{entityType}' is part of a hierarchy, but does not have a discriminator value configured.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoProviderConfigured" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/NoProviderConfigured">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No relational database providers are configured. Configure a database provider using OnConfiguring or by creating an ImmutableDbContextOptions with a database provider configured and passing it to the context.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNotObjectArray" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/ParameterNotObjectArray">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot use the value provided for parameter '{parameter}' because it isn't assignable to type object[].</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PossibleIncorrectResultsUsingLikeOperator" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/PossibleIncorrectResultsUsingLikeOperator">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Linq translation for method '{function}' used by this database provider can return incorrect results when the value argument contains wildcard characters (e.g. '%' or '_').</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PossibleUnintendedUseOfEquals" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/PossibleUnintendedUseOfEquals">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Possible unintended use of method Equals(object) for arguments of different types: '{left}', '{right}'. This comparison will always return 'false'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalLoggerBeginningTransaction" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalLoggerBeginningTransaction">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Beginning transaction with isolation level '{isolationLevel}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalLoggerClosingConnection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalLoggerClosingConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Closing connection to database '{database}' on server '{server}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalLoggerCommittingTransaction" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalLoggerCommittingTransaction">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Committing transaction.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalLoggerExecutedCommand" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalLoggerExecutedCommand">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Executed DbCommand ({elapsed}ms) [Parameters=[{parameters}], CommandType='{commandType}', CommandTimeout='{commandTimeout}']{newLine}{commandText}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalLoggerOpeningConnection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalLoggerOpeningConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Opening connection to database '{database}' on server '{server}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalLoggerRollingbackTransaction" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalLoggerRollingbackTransaction">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Rolling back transaction.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RelationalNotInUse" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RelationalNotInUse">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Relational-specific methods can only be used when the context is using a relational database provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RevertingMigration" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/RevertingMigration">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Reverting migration '{migration}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StoredProcedureIncludeNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/StoredProcedureIncludeNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The Include operation is not supported when calling a stored procedure.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionAlreadyStarted" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/TransactionAlreadyStarted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The connection is already in a transaction and cannot participate in another transaction.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionAssociatedWithDifferentConnection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/TransactionAssociatedWithDifferentConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified transaction is not associated with the current connection. Only transactions associated with the current connection may be used.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToDiscriminate" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UnableToDiscriminate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to materialize entity of type '{entityType}'. No discriminators were matched.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownOperation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UnknownOperation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The current migration SQL generator '{sqlGeneratorType}' is unable to generate SQL for operations of type '{operationType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnsupportedPropertyType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UnsupportedPropertyType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No mapping to a relational type can be found for property '{entity}.{property}' with the CLR type '{clrType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnsupportedType" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UnsupportedType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No mapping to a relational type can be found for the CLR type '{clrType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UpdateConcurrencyException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UpdateConcurrencyException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Database operation expected to affect {expectedRows} row(s) but actually affected {actualRows} row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UpdateStoreException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UpdateStoreException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An error occurred while updating the entries. See the inner exception for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UsingConnection" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Relational.Properties.RelationalStrings/UsingConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Using database '{database}' on server '{dataSource}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings">
+			<NamedResource name="InvalidMigrationOperation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings/InvalidMigrationOperation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SQLite does not support this migration operation ('{operation}'). For more information, see http://go.microsoft.com/fwlink/?LinkId=723262.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MigrationScriptGenerationNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings/MigrationScriptGenerationNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Generating idempotent scripts for migration is not currently supported by SQLite. For more information, see http://go.microsoft.com/fwlink/?LinkId=723262.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SchemasNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings/SchemasNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SQLite does not support schemas. For more information, see http://go.microsoft.com/fwlink/?LinkId=723262.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SequencesNotSupported" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings/SequencesNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SQLite does not support sequences. For more information, see http://go.microsoft.com/fwlink/?LinkId=723262.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.DependencyInjection.Abstractions.Resources">
+			<NamedResource name="AmbiguousConstructorMatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/AmbiguousConstructorMatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Multiple constructors accepting all given argument types have been found in type '{0}'. There should only be one applicable constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotLocateImplementation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/CannotLocateImplementation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to locate implementation '{0}' for service '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotResolveService" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/CannotResolveService">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to resolve service for type '{0}' while attempting to activate '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConstructorMatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/NoConstructorMatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A suitable constructor for type '{0}' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoServiceRegistered" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/NoServiceRegistered">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No service for type '{0}' has been registered.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TryAddIndistinguishableTypeToEnumerable" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Abstractions.Resources/TryAddIndistinguishableTypeToEnumerable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Implementation type cannot be '{0}' because it is indistinguishable from other services registered for '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.DependencyInjection.Resources">
+			<NamedResource name="AmbigiousConstructorException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/AmbigiousConstructorException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to activate type '{0}'. The following constructors are ambigious:</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotResolveService" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/CannotResolveService">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unable to resolve service for type '{0}' while attempting to activate '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CircularDependencyException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/CircularDependencyException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A circular dependency was detected for the service of type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DirectScopedResolvedFromRootException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/DirectScopedResolvedFromRootException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot resolve {1} service '{0}' from root provider.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoConstructorMatch" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/NoConstructorMatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A suitable constructor for type '{0}' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OpenGenericServiceRequiresOpenGenericImplementation" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/OpenGenericServiceRequiresOpenGenericImplementation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Open generic service type '{0}' requires registering an open generic implementation type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ScopedInSingletonException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/ScopedInSingletonException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot consume {2} service '{0}' from {3} '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ScopedResolvedFromRootException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/ScopedResolvedFromRootException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot resolve '{0}' from root provider because it requires {2} service '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TypeCannotBeActivated" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/TypeCannotBeActivated">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot instantiate implementation type '{0}' for service type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnableToActivateTypeException" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.DependencyInjection.Resources/UnableToActivateTypeException">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No constructor for type '{0}' can be instantiated using services from the service container and default values.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.Logging.Abstractions.Resource">
+			<NamedResource name="UnexpectedNumberOfNamedParameters" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.Logging.Abstractions.Resource/UnexpectedNumberOfNamedParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The format string '{0}' does not have the expected number of named parameters. Expected {1} parameter(s) but found {2} parameter(s).</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.Options.Resources">
+			<NamedResource name="Error_CannotActivateAbstractOrInterface" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.Options.Resources/Error_CannotActivateAbstractOrInterface">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot create instance of type '{0}' because it is either abstract or an interface.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_FailedBinding" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.Options.Resources/Error_FailedBinding">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to convert '{0}' to type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_FailedToActivate" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.Options.Resources/Error_FailedToActivate">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to create instance of type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Error_MissingParameterlessConstructor" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.Options.Resources/Error_MissingParameterlessConstructor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot create instance of type '{0}' because it is missing a public parameterless constructor.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Extensions.Primitives.Resources">
+			<NamedResource name="Argument_InvalidOffsetLength" uri="ms-resource://e8e68bb2-846a-4379-a772-bd27eb10e21a/Microsoft.Extensions.Primitives.Resources/Argument_InvalidOffsetLength">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Offset and length are out of bounds for the string or length is greater than the number of characters from index to the end of the string.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
